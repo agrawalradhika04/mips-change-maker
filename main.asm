@@ -1,6 +1,3 @@
-# Radhika Agrawal
-# CS 255 - HW 5
-
 .data   
 
 input_cents:         .asciiz "\nHow many cents to make change? "
